@@ -1,0 +1,19 @@
+*{
+    background: black;
+  }
+  p{
+    color: white;
+    text-align: center;
+  }
+  h1{
+    font-family: 'Libre Baskerville', serif;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+  }
+
+    .Motivation{
+        border: 5px solid white;
+        width: 100%;
+    }
